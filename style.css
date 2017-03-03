@@ -123,3 +123,23 @@ html {
 .cui_page #tech_col {
   padding-right: 0;
 }
+
+/*Apple*/
+.apple #header_row {
+  padding: 0;
+  padding-bottom: 10px;
+  padding-top: 40px;
+}
+
+.apple #header_text {
+  padding-left: 35px;
+}
+
+.apple #image_col {
+  padding-left: 0;
+}
+
+.apple #description {
+  line-height: 135%;
+  font-size: 110%;
+}
